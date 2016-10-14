@@ -1,0 +1,6 @@
+permalink: /:title
+
+title: yarnpkgcn
+url: http://yarnpkg.cc
+feed: /atom.xml
+author_info: <a href="http://github.com/houyhea">船夫</a>
